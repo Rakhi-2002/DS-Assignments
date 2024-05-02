@@ -1,0 +1,11 @@
+Probleam Statement: Implement Bully and Ring algorithm for leader election.
+
+Commands To Execute Assignment-6:
+	On Terminal:
+		python Bully.py
+
+	On Terminal:
+		python Ring.py
+
+
+

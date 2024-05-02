@@ -1,0 +1,12 @@
+Probleam Statement: Implement Berkeley algorithm for clock synchronization.
+
+
+Commands To Execute Assignment-4:
+	On Terminal-1:
+		python server.py
+
+	On Terminal-2:
+		python client.py
+
+
+
